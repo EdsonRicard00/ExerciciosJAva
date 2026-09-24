@@ -3,6 +3,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "ExercicioFibonacci",
+			"request": "launch",
+			"mainClass": "ExercicioFibonacci",
+			"projectName": "ExerciciosJAva_b57ddbfc"
+		},
+		{
+			"type": "java",
 			"name": "ExercicioFatorial",
 			"request": "launch",
 			"mainClass": "ExercicioFatorial",
