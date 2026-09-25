@@ -3,6 +3,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "exerciciofor04Scanner",
+			"request": "launch",
+			"mainClass": "exerciciofor04Scanner",
+			"projectName": "ExerciciosJAva_b57ddbfc"
+		},
+		{
+			"type": "java",
 			"name": "ExercicioFor03invertido",
 			"request": "launch",
 			"mainClass": "ExercicioFor03invertido",
