@@ -5,7 +5,7 @@ import java.util.Scanner;
  */
 public class exerciciofor04Scanner {
     public static void main(String[] args) {
-        
+
 		int i, j, inicio;
 
 				
@@ -16,7 +16,7 @@ public class exerciciofor04Scanner {
 
 		
 
-		inicio = entranda.nextInt(); // 
+		inicio = entranda.nextInt(); 
 
 				
 

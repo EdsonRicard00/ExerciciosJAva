@@ -3,6 +3,13 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "CalculosMat",
+			"request": "launch",
+			"mainClass": "CalculosMat",
+			"projectName": "ExerciciosJAva_b57ddbfc"
+		},
+		{
+			"type": "java",
 			"name": "exerciciofor04Scanner",
 			"request": "launch",
 			"mainClass": "exerciciofor04Scanner",
